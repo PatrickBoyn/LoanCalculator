@@ -34,5 +34,11 @@ function calculateResults(e){
 
 function showError(errorMessage) {
     const errorDiv = document.createElement('div');
+
+    const card = document.querySelector('.card');
+    const heading = document.querySelector('heading');
+
     errorDiv.className = 'alert';
+
+    errorDiv.document.createTextNode(error);
 }
