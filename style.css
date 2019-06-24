@@ -34,3 +34,15 @@
     transform: rotate(60deg);
     animation-delay: -0.9s;
 }
+.loading div:nth-child(4){
+    transform: rotate(90deg);
+    animation-delay: -0.8s;
+}
+.loading div:nth-child(5){
+    transform: rotate(120deg);
+    animation-delay: -0.8s;
+}
+.loading div:nth-child(6){
+    transform: rotate(150deg);
+    animation-delay: -0.6s;
+}
