@@ -20,5 +20,12 @@ function calculateResults(e){
     const x = Math.pow(1 + calculatedInterest, calculatedPayments);
     const monthly = (principal * x * calculatedInterest) / (x - 1);
 
+
+    // validates the results
+    if (isFinite(monthly)) {
+        
+    } else {
+        
+    }
     e.preventDefault();
 }
