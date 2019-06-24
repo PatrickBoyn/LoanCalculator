@@ -23,7 +23,8 @@ function calculateResults(e){
 
     // validates the results
     if (isFinite(monthly)) {
-        
+        monthlyPayment.value = monthly.toFixed(2);
+        totalPayment.value = (monthly * calculatedPayments).toFixed(2);
     } else {
         
     }
