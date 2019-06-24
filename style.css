@@ -30,3 +30,7 @@
     transform: rotate(30deg);
     animation-delay: -0.9s;
 }
+.loading div:nth-child(3){
+    transform: rotate(60deg);
+    animation-delay: -0.9s;
+}
