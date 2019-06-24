@@ -12,3 +12,13 @@
     transform-origin: 32px 32px;
     animation: spinner 1.2s linear;
 }
+.loading div:after{
+    content: " ";
+    display: block;
+    top: 3px;
+    left: 29px;
+    width: 5px;
+    height: 14px;
+    border-radius: 20%;
+    background: #fff;
+}
