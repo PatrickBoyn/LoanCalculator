@@ -33,5 +33,6 @@ function calculateResults(e){
 }
 
 function showError(errorMessage) {
-    
+    const errorDiv = document.createElement('div');
+    errorDiv.className = 'alert';
 }
