@@ -46,3 +46,11 @@
     transform: rotate(150deg);
     animation-delay: -0.6s;
 }
+.loading div:nth-child(7) {
+    transform: rotate(180deg);
+    animation-delay: -0.5s;
+}
+.loading div:nth-child(8){
+    transform: rotate(210deg);
+    animation-delay: -0.4s;
+}
