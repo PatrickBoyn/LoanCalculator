@@ -54,3 +54,11 @@
     transform: rotate(210deg);
     animation-delay: -0.4s;
 }
+.loading div:nth-child(9){
+    transform: rotate(240deg);
+    animation-delay: -0.3s;
+}
+.loading div:nth-child(10){
+    transform: rotate(270deg);
+    animation-delay: -0.2s;
+}
