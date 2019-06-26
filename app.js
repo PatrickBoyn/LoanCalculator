@@ -45,7 +45,6 @@ function showError(errorMessage) {
     
     const card = document.querySelector('.card');
     const heading = document.querySelector('.heading');
-
     errorDiv.className = 'alert';
 
     errorDiv.appendChild(document.createTextNode(errorMessage));
@@ -57,5 +56,6 @@ function showError(errorMessage) {
 }
 
 function clearError() {
-    document.querySelector('.alert').remove();   
+    document.querySelector('.alert').remove();
+    document.querySelector('#loading').style.display = 'none';
 }
