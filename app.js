@@ -1,4 +1,6 @@
-document.getElementById('loan-form').addEventListener('submit', function(){});
+document.getElementById('loan-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+});
 
 function calculateResults(){
 
