@@ -44,10 +44,10 @@ body{
 }
 .btn:focus{
     outline:none;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, .8);
 }
 .form-control:focus{
     outline: none;
-    box-shadow: 0 4px 4px rgba(0, 0, 0, .8);
     border: 1px solid #242424;
 }
 #loading, .results {
