@@ -39,6 +39,10 @@ body{
     background-color: #242424;
     color: white;
 }
+.form-control:focus{
+    outline: none;
+    border: 1px solid #242424;
+}
 #loading, .results {
     display: none;
 }
