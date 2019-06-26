@@ -3,7 +3,8 @@
     position: relative;
     width: 3.75rem;
     height: 4.69rem;
-    margin: auto;
+    /* Won't need this until I style the rest of the website. */
+    /* margin: auto; */
 }
 .blockG{
     position: absolute;
