@@ -1,8 +1,8 @@
-#floatingBarsG, .results {
+#loading, .results {
     display: none;
 }
 /* The spinner CSS */
-#floatingBarsG{
+#loading{
     position: relative;
     width: 3.75rem;
     height: 4.69rem;
