@@ -11,6 +11,7 @@ html{
 body{
     padding: 2rem;
     box-sizing: border-box;
+    background-color: #242424;
 }
 #loading, .results {
     display: none;
