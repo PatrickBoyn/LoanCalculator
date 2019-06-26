@@ -29,6 +29,9 @@ body{
     text-align: center;
     font-size: 1.7rem;
 }
+#years{
+    margin-left: 1.60rem;
+}
 #loading, .results {
     display: none;
 }
