@@ -12,12 +12,20 @@ body{
     padding: 2rem;
     box-sizing: border-box;
     background-color: #242424;
+    display: flex;
+    justify-content: center;
 }
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #fff;
+}
+.card{
+    display: flex;
+    flex-direction:column;
+    flex: 0 1 20%;
+    justify-content: space-between;
 }
 #loading, .results {
     display: none;
