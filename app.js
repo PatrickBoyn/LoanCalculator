@@ -1,8 +1,8 @@
 document.getElementById('loan-form').addEventListener('submit', function (e) {
     // TODO check and see if these are classes or ID's.
-    document.getElementById('results').style.display = 'none';
+    document.querySelector('.results').style.display = 'none';
     document.getElementById('loading').style.display = 'block';
-    
+
     e.preventDefault();
 });
 
