@@ -12,7 +12,6 @@
 .blockG{
     position: absolute;
     background-color: #fff;
-    color:red;
     width: 1rem;
     height: 1.44rem;
     border-radius: 8px 8px 0 0;
@@ -20,50 +19,50 @@
     animation: fadeG 1.2s infinite normal;
 }
 #rotate-Go_01{
-    left: 0;
-    top: 1.89rem;
+    left: .5rem;
+    top: 11.89rem;
     animation-delay: 0.45s;
     transform: rotate(-90deg);
 }
 #rotate-Go_02{
-    left: 8px;
-    top: 1rem;
+    left: 1rem;
+    top: 11rem;
     animation-delay: 0.6s;
     transform: rotate(-45deg);
 }
 #rotate-Go_03{
-	left:23px;
-	top:10px;
+    left: 1.9375rem;
+    top: 10.6875rem;
     animation-delay: 0.75s;
     transform: rotate(0deg);
 }
 #rotate-Go_04{
-    right: 8px;
-    top: 1rem;  
+    right: 60rem;
+    top: 11.2rem;
     animation-delay: 0.9s;
     transform: rotate(45deg);
 }
 #rotate-Go_05{
-    right: 0;
-    top: 1.69rem;
+    right: 59.625rem;
+    top: 12.08rem;
     animation-delay: 1.05s;
     transform: rotate(90deg);
 }
 #rotate-Go_06{
-    right: 8px;
-    bottom: 7px;
+    right: 60.15rem;
+    bottom: 18rem;
     animation-delay: 1.2s;
     transform: rotate(135deg);
 }
 #rotate-Go_07{
-    bottom: 0;
-    left: 1.56rem;
+    bottom: 17.80rem;
+    left: 1.75rem;  
     animation-delay: 1.35s;
     transform: rotate(180deg);
 }
 #rotate-Go_08{
-    left: 8px;
-    bottom: 7px;
+    left: .875rem;
+    bottom:18.1rem;
     animation-delay: 1.5s;
     transform: rotate(-135deg);
 }
