@@ -1,3 +1,6 @@
+#floatingBarsG, .results {
+    display: none;
+}
 /* The spinner CSS */
 #floatingBarsG{
     position: relative;
