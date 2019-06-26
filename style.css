@@ -20,49 +20,49 @@
 }
 #rotate-Go_01{
     left: .5rem;
-    top: 11.89rem;
+    top: 1.89rem;
     animation-delay: 0.45s;
     transform: rotate(-90deg);
 }
 #rotate-Go_02{
     left: 1rem;
-    top: 11rem;
+    top: 1rem;
     animation-delay: 0.6s;
     transform: rotate(-45deg);
 }
 #rotate-Go_03{
     left: 1.9375rem;
-    top: 10.6875rem;
+    top: 0.6875rem;
     animation-delay: 0.75s;
     transform: rotate(0deg);
 }
 #rotate-Go_04{
-    right: 60rem;
-    top: 11.2rem;
+    top: 1.2rem;
+    left: 3rem;
     animation-delay: 0.9s;
     transform: rotate(45deg);
 }
 #rotate-Go_05{
-    right: 59.625rem;
-    top: 12.08rem;
+    top:2.10rem;
+    left:3.20rem;
     animation-delay: 1.05s;
     transform: rotate(90deg);
 }
 #rotate-Go_06{
-    right: 60.15rem;
-    bottom: 18rem;
+    right: 0;
+    bottom: 1px;
     animation-delay: 1.2s;
     transform: rotate(135deg);
 }
 #rotate-Go_07{
-    bottom: 17.80rem;
-    left: 1.75rem;  
+    bottom:-.32rem;
+    left: 1.75rem;
     animation-delay: 1.35s;
     transform: rotate(180deg);
 }
 #rotate-Go_08{
-    left: .875rem;
-    bottom:18.1rem;
+    left: .7rem;
+    bottom: .3rem;
     animation-delay: 1.5s;
     transform: rotate(-135deg);
 }
