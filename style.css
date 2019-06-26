@@ -29,6 +29,11 @@ body{
     text-align: center;
     font-size: 1.7rem;
 }
+.alert{
+    background-color: #FFBABA;
+    color: #D8000C;
+    border: 1px solid  #D8000C;
+}
 #amount{
     margin-left:.5rem;
 }
